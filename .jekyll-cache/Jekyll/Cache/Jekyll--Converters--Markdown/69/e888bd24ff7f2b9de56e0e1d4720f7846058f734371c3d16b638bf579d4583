@@ -1,0 +1,33 @@
+I"e
+<blockquote>
+  <p>We strive for what we believe we lack. My desire to understand fills the void of that which I do not receive.</p>
+</blockquote>
+
+<h2 id="the-mathematical-function">The Mathematical Function</h2>
+
+<p>Many times I have had thoughts that were a priori or before the fact. People commonly term this as intuition, where one gains some insight without having any conscious reason for it. I liken this to raw information; it has no order nor reason. As I am a creature with the capacity of rationality, I am able to ground thought to reality. As thought is translated into words using the alphabet, the same can be done with numbers. The primary advantage of the latter is the ability to reshape the information using mathematical operations. Behold the bane of data science!</p>
+
+<h2 id="data">Data</h2>
+
+<p>Data is information in numerical form. To translate words, images, and sound into data, mathematical functions assign different numerical codes to the present information.</p>
+
+<p>Words or strings are translated into ASCII code</p>
+
+<p><img src="/assets/img/ascii-table.png" alt="ASCII Table" /></p>
+
+<p>Images are translated based off the position of each pixel as well as using a color scale.</p>
+
+<p><img src="/assets/img/image-recognition.png" alt="Image Recognition" /></p>
+
+<p>Sound is translated with a volume and tone scale. Think of the chords assigned to a certain sound.</p>
+
+<p><img src="/assets/img/music-composition.jpg" alt="Music Composition" /></p>
+
+<p>The main point is that the world can be encoded into data, and we live in a time where we are doing so. The rise of the internet has bestowed on us the phenomenon of “Big Data”. People in the field are now able to produce unprecedently large and complex datasets since all activity is virtually traceable on the internet. The problem now stems from the capability to process this data. As Oracle puts it,</p>
+
+<blockquote>
+  <p>Data has intrinsic value. But it’s of no use until that value is discovered.</p>
+</blockquote>
+
+<p>Dealing with massive datasets – we’re talking in the billions – requires special computational and statistial tools and methods, thus, giving rise to the field of data science. Data science allows us to make use of information from all this data and can be applied to a variety of fields such as psychology, epidemiology, and economics to name a few. This is why I sit, here, in front of my computer day in and day out, learning and doing as much as possible. I sense a great power to be wielded from data science, and I intend to use this to provide solutions for humanity. This is my way of changing the world for the better.</p>
+:ET

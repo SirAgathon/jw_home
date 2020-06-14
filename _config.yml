@@ -1,0 +1,27 @@
+title: Jeff Wang
+permalink: ':title/'
+baseurl: "jw_home" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author Settings
+author: Jeff Wang # add your name
+author-img: jw.jpg # add your photo
+about-author: I seek to push the limits of human knowledge. My current focus is on statistical and econometrical methods. # add description
+social-facebook: wjangeff # add your Facebook handle
+social-github: SirAgathon # add your Github handle
+social-linkedin: jeff-wang-00 # add your Linkedin handle
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
