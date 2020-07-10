@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shorts: Degrees of Freedom
+title: "Shorts: Degrees of Freedom"
 date: July 10, 2020 #Add date 
 description: An analysis of every passing moment of our lives.
 img: # Add image post (optional)
