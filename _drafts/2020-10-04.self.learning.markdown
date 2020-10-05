@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Why Self-Learning is Key in Today's World"
+date: October 04, 2020 #Add date 
+description: The role of self-learning in today's world and my self-learning path.
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [365daysofcoding]
+permalink: /:title/
+---
+
+## Taking your learning into your own hands
+
+There is an old adage which says that the purpose of schooling is to teach people how to think. Of which, I cannot agree more than enough. Especially in the advent of COVID-19, students like myself are primarily left to our own devices. Some are lucky enough to have mentors while others, myself included, are to assume the role of both student and teacher. Needless to say, there are pros and cons to each, depending on one's temperament. I intend for this article to serve as a guide for those in a similar predicament as I am.
+
+## 365 Days of Coding: Week One
+
+Ever since the start of Spring 2020, I have set my focus on becoming more technical. I began my education in the classical, theoretical part of economics, but ever since my introduction to econometrics, I took a great interest to data wrangling and engineering. And so, rather than taking on more courses to earn another degree in computer or data science, I figured self-learning would be a quicker method, especially considering the greater amount of time available as well as an abundance of quality resources out there.
+
+Here's how I took it upon myself to learning all I can about coding this year. First off, out of many topics, I decided to begin with SQL, considered one of the basic, fundamental tools in today's data science scene. Immediately, I created a curriculum. The length of my course I determined to be 7-8 weeks, half a semester. 
