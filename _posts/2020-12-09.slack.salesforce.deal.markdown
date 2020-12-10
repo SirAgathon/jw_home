@@ -1,0 +1,36 @@
+---
+layout: post
+title: "27.7 Billion: The Value of Slack's Network"
+date: December 09, 2020 #Add date 
+description: See title.
+img: Slack-Salesforce.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Slack, Salesforce, Network Effects]
+permalink: /:title/
+---
+
+## Background
+
+It has been a week or so since Salesforce announced its likely acquisition of Slack for 27.7 billion dollars -- becoming its largest deal to date. Many have criticized CEO Mark Benioff's decision, citing that the acquisition overvalues Slack.[^1] As a result, Salesforce stock prices have declined while Slack's has increased to $45 to match the valuation. As for me, I stand by Mark's decision. I sold my shares of Slack to reinvest into Salesforce. And, here's why.
+
+## Network Effects
+
+I came across the fascinating concept of network effects today while reading up on research literature. In a nutshell, network effects refer to the dynamic system of operational components such as pricing, quality, and demand that scale with an increasing user base. Take a basic rendition of Uber's network effect, for instance.
+
+![alt text][UBER]
+
+The bandwagon effect occurs when an entity becomes most dominant in the network. And, this confers exponential growth and monopoly-like benefits.
+
+## Conclusion
+
+Salesforce's valuation of Slack is primarily hinged upon its network. And, I believe the main component which elicits this high valuation of Slack is its horizontal reach. 
+
+![alt text][Slack]
+
+What I am referring to, in other words, is its capacity for integrating and connecting a wide array of companies and entities on its platform -- like a social network primarily for companies, if you may. Microsoft Teams, on the other hand, has a limited capacity in this regard, having been built vertically or specialized for internal communications. Driving home my point, this is why hackathons and universities use Slack. And so, I leave you, my dear reader, with the billion-dollar question: just how much more exposure does Slack have compared to Microsoft Teams? 
+
+My guess would be at least 27.7 billions of dollars worth.
+
+[^1]: https://www.barrons.com/articles/salesforce-shares-sink-on-concerns-it-is-overpaying-for-slack-51606929242
+[UBER]: https://miro.medium.com/max/700/1*4eWXsf7aPfgoEGZiyJ5Gwg.png "Source: Ravi Kumar"
+[Slack]: https://stratechery.com/wp-content/uploads/2020/07/slack-1-768x575.png "Source: Stratechery"
